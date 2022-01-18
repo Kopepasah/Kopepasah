@@ -2,4 +2,4 @@
 
 ### Hey-yo! 👋🏻
 
-[![Justin's Github Stats](https://github-readme-stats.vercel.app/api?username=kopepasah&count_private=true&show_icons=true)](https://github.com/kopepasah)
+My name is Justin, but some people call me __koop__. You can learn about me on my [personal website](https://kopepasah.com), or read some of my random ramblings on [my blog](https://koop.sh).
