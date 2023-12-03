@@ -8,6 +8,6 @@ The question I get asked most when first meeting someone is how to pronounce my 
 
 ---
 
-These days, I code mostly with PHP and JavaScript (TypeScript & React), but am always learning and growing into new areas. I consider myself a Lead Full-stack Software Engineer because I often cover all aspects of a development project, even project planning and management of other engineers. AI already plays a huge role in my day-to-day developemnt, including using AI in several of my personal projects and small-business initiatives.
+These days, I code mostly with [PHP](https://en.wikipedia.org/wiki/PHP) and [JavaScript](https://en.wikipedia.org/wiki/JavaScript) ([TypeScript](https://en.wikipedia.org/wiki/TypeScript) & [React](https://en.wikipedia.org/wiki/React_(software))), but am always learning and growing into new areas. I consider myself a Lead Full-stack Software Engineer because I often cover all aspects of a development project, even project planning and management of other engineers. As someone who constantly strives to stay up-to-date with the latest technologies, AI already plays a huge role in my day-to-day developemnt, including using AI in several of my personal projects and small-business initiatives.
 
 [Website](https://kopepasah.com/) &nbsp;&nbsp; [Blog](https://koop.sh/) &nbsp;&nbsp; [LinkedIn](https://linkedin.com/in/kopepasah/) &nbsp;&nbsp; [Mastodon](https://mastodon.social/@kopepasah)
