@@ -4,7 +4,7 @@
 
 Thanks for taking the time to view my GitHub profile. Here you'll find a bit of information [about me](https://kopepasah.com/) as a Software Engineer, but in reality wear many, many hats — including being a [reformed convict](https://koop.sh/speaking/wordcamp-us-talk-about-how-wordpress-helped-a-reformed-convict-20230825602/).
 
-The question I get asked most when first meeting someone is how to pronounce my surname: _Kopepasah_ ( it's _koop-sah_ or _koop-saw_ — I've heard it both ways 😆). I have never met someone that can pronounce it correctly the first time (so don't worry about offending me!). Lastly, my surname is First American (Comanche Nation) and means "Standing on the Edge of the Mountain". 🤯
+The question I get asked most when first meeting someone is how to pronounce my surname: _Kopepasah_ ( it's _koop-sah_ or _koop-saw_ — I've heard it both ways 😆). I have never met someone that can pronounce it correctly the first time (so don't worry about offending me!). Lastly, my surname is First American ([Comanche Nation](https://comanchenation.com/)) and means "Standing on the Edge of the Mountain". 🤯
 
 ---
 
